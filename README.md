@@ -1,4 +1,4 @@
-# Babá Inteligente com BitDogLab (Raspberry Pi Pico W) – Monitoramento de Som em Tempo Real👨🏻‍💻🤱🏻
+# Babá Inteligente com BitDogLab (Raspberry Pi Pico W) – 👨🏻‍💻🤱🏻
 
 Este projeto implementa uma **Babá Eletrônica** utilizando a placa **BitDogLab**. Ele monitora sons no ambiente e executa ações específicas, como exibir informações no display OLED e alertar por meio de LEDs RGB e um buzzer, permitindo a identificação do ambiente.
 
