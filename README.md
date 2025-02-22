@@ -46,7 +46,7 @@ A Babá Eletrônica detecta sons e fornece feedback visual e auditivo sobre o es
 ## 📂 Estrutura do Projeto
 
 ```
-projeto-baba-inteligente/
+CEPEDI_PROJETO_FINAL/
 ├── CMakeLists.txt        # Configuração do CMake
 ├── display_oled.c        # Código principal
 ├── inc/
@@ -76,4 +76,4 @@ make
 - Solte o botão e uma unidade USB aparecerá no seu computador.
 - Arraste e solte o arquivo `.uf2` gerado para a unidade.
 
-#  - 💡 Criado e Desenvolvido por : [Everton Espedito Silva Santos](https://www.linkedin.com/in/everton-espedito-3062071a3/)
+####  - 💡 Criado e Desenvolvido por : [Everton Espedito Silva Santos](https://www.linkedin.com/in/everton-espedito-3062071a3/)
